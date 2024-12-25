@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic</string>
+    <string name="this_is_a_home_fragment">This is a home fragment</string>
+    <string name="this_is_a_about_app_fragment">This is a About App Fragment</string>
+    <string name="home">Home</string>
+    <string name="about_app">About App</string>
+    <string name="hello_card">Hello</string>
+</resources>
